@@ -1,0 +1,908 @@
+@media (min-width: 1200px) {
+
+    .navbar-expand-md {
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+
+    .navbar-expand-md .navbar-toggler {
+        display: none;
+    }
+
+    .navbar-expand-md .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+    }
+
+    .navbar-expand-md .navbar-nav {
+        flex-direction: row;
+    }
+
+}
+
+@media(max-width:1500px) {
+    .carousel-item img {
+        height: 800px;
+    }
+
+    .item-detail-bottom-description {
+        font-size: 14px;
+    }
+
+    .slider-item-info li {
+        font-size: 14px;
+    }
+
+    .festival-list-item {
+        margin: 0px 10px 40px 0;
+    }
+
+    .react-multiple-carousel__arrow--right {
+        right: calc(-1% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow--left {
+        left: calc(-2% + 1px) !important;
+    }
+
+}
+
+
+@media(max-width:1280px) {
+    .slider-item-Title {
+        font-size: 55px;
+    }
+
+    .slider-item-short-desc {
+        font-size: 14px;
+    }
+
+    .slider-item-maker {
+        color: #fff;
+        font-size: 14px;
+    }
+
+    .carousel-indicators button {
+        width: 18px !important;
+        height: 18px !important;
+    }
+
+    .carousel-item img {
+        height: 700px;
+    }
+
+    .mainmultisliders .react-multiple-carousel__arrow {
+        right: 95px;
+    }
+
+    .navbar-nav a {
+        font-size: 14px;
+    }
+
+    button.default-btn {
+        font-size: 14px;
+    }
+
+    button.navbar-button {
+
+        font-size: 14px;
+    }
+
+    .slider-item-short-desc {
+        height: 65px;
+    }
+
+    .festival-list-item {
+        margin: 0px 10x 40px 0;
+    }
+
+    .innerGenre {
+        max-width: 980px;
+    }
+
+    .react-multiple-carousel__arrow--right {
+        right: calc(-5% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow--left {
+        left: calc(-5% + 1px) !important;
+    }
+
+    .slideContentBox {
+        width: 60%;
+    }
+}
+
+@media(max-width:1240px) {
+    .home-item-list li.react-multi-carousel-item {
+        margin: 0 3px;
+    }
+
+    .festival-list-item {
+        margin: 0px 6px 40px -1px;
+    }
+
+    .slider-item {
+        width: 215px;
+        height: 290px;
+
+    }
+
+    .thumbnailPlayer {
+        height: 125px;
+    }
+}
+
+@media(max-width:1200px) {
+    main {
+        min-height: 850px;
+    }
+
+    .search-item-container {
+        padding: 0 15px !important;
+    }
+}
+
+@media(max-width:1024px) {
+    .carousel-caption {
+        width: 70%;
+    }
+
+    .slider-item-Title {
+        font-size: 50px;
+    }
+
+    .slider-item-Title .quality {
+        top: 0;
+    }
+
+    .carousel-item img {
+        height: 650px;
+    }
+
+    .carousel-indicators button {
+        width: 15px !important;
+        height: 15px !important;
+    }
+
+    .list_heading h3 {
+        font-size: 22px !important;
+    }
+
+    .mainmultisliders .react-multiple-carousel__arrow {
+        right: 80px;
+    }
+
+    .custom-screen-padding {
+        padding: 0px 20px !important;
+    }
+
+    .outer-login {
+        width: 400px !important;
+        margin: 0px auto !important;
+    }
+
+    .credential-Body .card-title {
+        font-size: 28px;
+    }
+
+    .slideContentBox {
+        width: 70%;
+    }
+
+    .css-1isfg39 {
+        padding: 22px;
+    }
+
+    .detail-related-slider {
+        padding: 0 22px 48px 22px !important;
+    }
+
+    .search-text-heading h4 {
+        font-size: 20px;
+    }
+
+    .innerGenre {
+        max-width: 768px;
+    }
+
+    .react-multiple-carousel__arrow--right {
+        right: calc(-7% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow--left {
+        left: calc(-7% + 1px) !important;
+    }
+
+    .MuiGrid-root .nfoundTxt {
+        font-size: 8rem !important;
+    }
+
+    .player-container {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+    }
+
+    .video-js-player {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        width: 100%;
+        transform: translateY(-50%);
+    }
+
+}
+
+@media(max-width:992px) {
+    .festival-list-item {
+        margin: 0px 2px 40px -1px;
+    }
+
+}
+
+
+@media(max-width:820px) {
+    .navbar-toggler {
+        border: 1px solid #fff !important;
+        position: relative;
+        top: -10px;
+    }
+
+    .navbar-toggler-icon {
+
+        filter: invert(1);
+    }
+
+    .carousel-caption {
+        width: 100%;
+    }
+
+    .slider-item-Title {
+        font-size: 40px;
+        height: 60px;
+    }
+
+    .topFooter .col {
+        width: 50%;
+        flex: unset;
+    }
+
+    .footer-about-heading h4 {
+        font-size: 20px;
+    }
+
+    .navbar-collapse {
+        background: #000000ed;
+        padding-bottom: 15px;
+        box-shadow: 0 0 7px 1px #4f4f4f;
+    }
+
+    .navbar-nav {
+        max-height: unset !important;
+        padding-left: 20px !important;
+    }
+
+    .screen-nav a {
+        padding: 12px;
+    }
+
+    a.nav-search-icon {
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+        padding-top: 0;
+    }
+
+    .screen-nav a {
+        margin-left: 0 !important;
+    }
+
+    .navbar-nav button {
+        margin-left: 0 !important;
+        margin-top: 5px;
+    }
+
+    .screen-nav a.active {
+        border: none;
+    }
+
+    .navbar-collapse {
+        position: absolute;
+        width: 95%;
+        top: 80px;
+    }
+
+    .festival-list-item {
+        margin: 0px 20px 40px -1px;
+    }
+
+    .slideContentBox {
+        width: 100%;
+    }
+
+    .css-158mvuo-MuiPaper-root {
+        height: 530px !important;
+    }
+
+    .innerGenre {
+        max-width: 575px;
+    }
+
+    .react-multiple-carousel__arrow--right {
+        right: calc(-9% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow--left {
+        left: calc(-9% + 1px) !important;
+    }
+
+    #dropdown-basic {
+        padding-left: 0;
+    }
+
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        width: 20% !important;
+    }
+
+    .navbar-nav a:last-child button {
+        padding: 7px 52px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    .MuiGrid-root .nfoundTxt {
+        font-size: 7rem !important;
+    }
+
+    .detailQuality {
+        margin-left: 17px;
+        top: -5px !important;
+    }
+
+    .navbar .filmBtn {
+        display: block !important;
+        right: 75px;
+        position: absolute;
+        top: 15px;
+
+    }
+
+    .navbar-brand img {
+        width: 110px;
+    }
+
+    .filmBtn button {
+        font-size: 12px;
+        padding: 5px 18px;
+    }
+
+    .navbar-toggler {
+        padding: 0px 3px !important;
+    }
+
+    .deskfilmbtn {
+        display: none !important;
+    }
+}
+
+
+@media(max-width:768px) {
+    .navbar-toggler {
+        padding: 2px !important;
+    }
+
+    .navbar-toggler-icon {
+        height: 1.2em !important;
+    }
+
+    .festival-list-item {
+        margin: 0px 1px 40px -1px;
+    }
+
+}
+
+
+@media(max-width:600px) {
+    .custom-main-screen-padding {
+        margin-top: 0;
+    }
+
+    .festival-list-container {
+        margin-top: 3rem;
+    }
+
+    .carousel-item img {
+        height: 400px;
+    }
+
+    .carousel-indicators {
+        bottom: 0 !important;
+        margin-bottom: 0;
+    }
+
+    .navbar-brand img {
+        width: 100px;
+    }
+
+    .slider-item-Title {
+        font-size: 30px;
+        height: 40px;
+    }
+
+    .carousel-caption {
+        padding-top: 2rem;
+        left: 4% !important;
+        top: 50%;
+    }
+
+    .slider-item-Title .quality {
+        top: 0;
+    }
+
+    li.slider-item-genre span {
+        font-size: 12px;
+    }
+
+    .slider-item-short-desc {
+        font-size: 12px;
+    }
+
+    .slider-item-maker {
+        font-size: 12px;
+    }
+
+    .carousel-indicators button {
+        width: 13px !important;
+        height: 13px !important;
+    }
+
+    .topFooter .col {
+        padding-bottom: 20px;
+    }
+
+    .bottomFooterTxt {
+        font-size: 14px;
+    }
+
+    footer .footer-about-desc {
+        font-size: 14px;
+    }
+
+    .footer-link li a {
+        font-size: 14px;
+    }
+
+    .footer-about-heading h4 {
+        font-size: 18px;
+    }
+
+    .mainmultisliders .react-multiple-carousel__arrow {
+        right: 65px;
+    }
+
+    .slider-item-short-desc {
+        height: 55px;
+    }
+
+    .festival-list-item {
+        margin: 0px 8px 40px 20px;
+    }
+
+    .css-1u09w0r-MuiPaper-root {
+        height: 525px !important;
+    }
+
+    .genre-list {
+        padding: 5px 15px;
+    }
+
+    .innerGenre {
+        max-width: 400px;
+    }
+
+    .react-multiple-carousel__arrow--right {
+        right: calc(-12% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow--left {
+        left: calc(-12% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow {
+        min-width: 35px;
+        min-height: 35px;
+    }
+
+    .slider-item-info {
+        padding-bottom: 0;
+    }
+
+    .MuiGrid-root .nfoundTxt {
+        font-size: 5rem !important;
+    }
+
+    .errorMessage {
+        font-size: 1rem !important;
+    }
+
+    .detailBanner {
+        height: 500px !important;
+    }
+}
+
+@media(max-width:575px) {
+    .festival-list-item {
+        margin: 0px 0px 40px 15px;
+    }
+
+}
+
+
+@media(max-width:480px) {
+    .slider-item-Title {
+        font-size: 25px;
+        margin-bottom: 0 !important;
+    }
+
+    button.default-btn {
+        padding: 3px 15px;
+    }
+
+    .slider-item-info {
+        padding-bottom: 0px;
+    }
+
+    .list_heading h3 {
+        font-size: 20px !important;
+    }
+
+    .topFooter .col {
+        width: 100%;
+    }
+
+    .navbar-nav button {
+        padding: 3px 15px;
+    }
+
+    .navbar-collapse {
+        width: 92%;
+    }
+
+    .navbar-nav {
+        padding-left: 20px !important;
+    }
+
+    button.default-btn {
+        font-size: 12px;
+    }
+
+    button.navbar-button {
+        font-size: 12px;
+    }
+
+    .navbar-nav a {
+        font-size: 12px;
+    }
+
+    .nav-search-icon svg {
+        width: 22px;
+    }
+
+    .home-item-list li:hover .slider-item {
+        transform: scale(1.1);
+    }
+
+    .credential-Body .card-title {
+        font-size: 26px;
+    }
+
+    .login-input-box input {
+        font-size: 14px;
+    }
+
+    .submit-box p {
+        font-size: 14px;
+    }
+
+    .festival-list-item {
+        margin: 0px 3px 40px -1px;
+    }
+
+    .festival-list-container ul {
+        padding-left: 0 !important;
+    }
+
+    li.festival-list-item:hover .slider-item {
+        transform: scale(1.1);
+    }
+
+    .css-158mvuo-MuiPaper-root {
+        height: 480px !important;
+    }
+
+    .search-item-container {
+        padding-left: 8rem !important;
+    }
+
+    .genre-list {
+        padding: 1px 10px 3px 10px;
+    }
+
+    .innerGenre {
+        max-width: 320px;
+    }
+
+    .react-multiple-carousel__arrow--right {
+        right: calc(-14% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow--left {
+        left: calc(-14% + 1px) !important;
+    }
+
+    .genre-item-container {
+        margin-left: 10rem;
+    }
+
+    .navbar-nav a:last-child button {
+        padding: 3px 33px;
+    }
+
+    .slider-item-Title .quality {
+        font-size: 12px;
+        padding: 2px 5px 0px 5px;
+    }
+
+    .carousel-indicators {
+        margin-bottom: 0.5rem !important;
+    }
+
+    li.slider-item-genre span {
+        display: inline-block;
+        margin-top: 15px;
+    }
+
+    .slider-item-info {
+        align-items: baseline;
+    }
+
+    .slider-item-info li {
+        padding-right: 0;
+    }
+
+    .slider-item-duration {
+        margin-left: 10px;
+    }
+
+    .navbar-toggler {
+        top: -6px;
+    }
+
+
+
+}
+
+@media(max-width:414px) {
+    .footer-about-heading h4 {
+        font-size: 16px;
+    }
+
+    .list_heading h3 {
+        font-size: 18px !important;
+    }
+
+    .slider-item-Title {
+        font-size: 23px;
+    }
+
+    .carousel-caption {
+        top: 49%;
+    }
+
+    .mainmultisliders .react-multiple-carousel__arrow {
+        right: 55px;
+    }
+
+    .credential-Body .card-title {
+        font-size: 22px;
+    }
+
+    .festival-list-container {
+        padding-left: 5.5rem !important;
+    }
+
+    .search-item-container {
+        padding-left: 6rem !important;
+    }
+
+    .favoriteLink svg {
+        font-size: 20px;
+    }
+
+    .favoriteLink {
+        padding: 4px 6px;
+        width: 36px;
+        height: 37px;
+    }
+
+    .search-text-heading h4 {
+        font-size: 16px;
+    }
+
+    input.search-input {
+        padding: 5px;
+    }
+
+    .genre-item-container {
+        margin-left: 7rem;
+    }
+
+    .account-container {
+        max-width: 320px !important;
+    }
+
+    .update-name-box svg {
+        right: 2rem;
+    }
+
+    a.navbar-brand {
+        top: 0px;
+    }
+
+    button.default-btn {
+        padding: 1px 10px;
+    }
+
+    .navbar-toggler {
+        padding: 1px !important;
+    }
+
+}
+
+@media(max-width:400px) {
+    .genre-item-container {
+        margin-left: 6rem;
+    }
+}
+
+@media(max-width:375px) {
+    .festival-list-container ul {
+        padding-left: 4rem !important;
+    }
+
+    .slider-item-info li {
+        font-size: 12px;
+    }
+
+    li.slider-item-genre span {
+        font-size: 10px;
+    }
+
+    .festival-list-container {
+        padding-left: 0.5rem !important;
+    }
+
+    .search-item-container {
+        padding-left: 5rem !important;
+    }
+
+    .search-item-container {
+        padding-left: 4rem !important;
+    }
+
+    .innerGenre {
+        max-width: 280px;
+    }
+
+    .react-multiple-carousel__arrow--right {
+        right: calc(-14% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow--left {
+        left: calc(-14% + 1px) !important;
+    }
+
+    .genre-item-container {
+        margin-left: 5rem;
+    }
+}
+
+@media(max-width:360px) {
+    .festival-list-container ul {
+        padding-left: 3.5rem !important;
+    }
+
+    .genre-item-container {
+        margin-left: 4rem;
+    }
+
+    .navbar .filmBtn {
+        right: 65px;
+    }
+}
+
+@media(max-width:320px) {
+    .slider-item-Title {
+        font-size: 21px;
+    }
+
+    .navbar-toggler-icon {
+        height: 1em !important;
+        width: 1.2em !important;
+    }
+
+    .custom-screen-padding {
+        padding: 0px 12px !important;
+    }
+
+    .festival-list-container ul {
+        padding-left: 2.3rem !important;
+    }
+
+    .slider-item-info li {
+        font-size: 10px;
+    }
+
+    li.slider-item-genre span {
+        font-size: 8px;
+    }
+
+    .favoriteLink svg {
+        font-size: 18px;
+    }
+
+    .favoriteLink {
+        padding: 2px 6px;
+        width: 35px;
+        height: 34px;
+    }
+
+    .detail-bottom-desc .list-group .list-group-item {
+        font-size: 14px;
+    }
+
+    .item-detail-bottom-description {
+        font-size: 12px;
+    }
+
+    .search-item-container {
+        padding-left: 3rem !important;
+    }
+
+    .innerGenre {
+        max-width: 220px;
+    }
+
+    .react-multiple-carousel__arrow--right {
+        right: calc(-18% + 1px) !important;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow--left {
+        left: calc(-18% + 1px) !important;
+    }
+
+    .genre-list {
+        padding: 1px 10px 1px 10px;
+        font-size: 14px;
+    }
+
+    .innerGenre .react-multiple-carousel__arrow {
+        min-width: 30px;
+        min-height: 30px;
+    }
+
+    .react-multiple-carousel__arrow::before {
+        font-size: 16px;
+    }
+
+    .genre-item-container {
+        margin-left: 1rem;
+    }
+
+    .navbar .filmBtn {
+        right: 45px;
+    }
+
+}
